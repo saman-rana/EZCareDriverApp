@@ -6,6 +6,9 @@ const HomeScreen = () => {
     <View>
       <Text style={styles.text}>my home Screen made b imran</Text>
       <Text style={styles.text}>my home Screen made b Saman</Text>
+      <Text style={styles.text}>my home Screen made b Saman</Text>
+      <Text style={styles.text}>my home Screen made b Saman</Text>
+
     </View>
   );
 };
